@@ -1,5 +1,4 @@
-/* eslint-disable react-hooks/exhaustive-deps */
-import React, { useContext, useEffect, useState } from "react";
+import React, { useContext, useState } from "react";
 import { ColorsContext } from "../../Store";
 
 import RenderedColors from "./RenderedColors";
